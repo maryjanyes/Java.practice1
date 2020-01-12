@@ -1,7 +1,6 @@
 import java.util.List;
 import java.util.ArrayList;
 
-// the main class
 public class Program {
     
     public static void main(String[] args) {
