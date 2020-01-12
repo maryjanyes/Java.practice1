@@ -33,7 +33,6 @@ class Generator {
     public void loise() { };
 }
 
-// the QuestRoom class
 class QuestRoom extends Generator {
     
     ArrayList<Visitor> visitors;
